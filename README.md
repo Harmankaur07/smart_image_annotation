@@ -10,6 +10,8 @@ The **Smart Image Annotation System** is an AI-powered computer vision applicati
 # 🔗 GitHub Repository
 
 **Repository Link:** *https://github.com/Harmankaur07/smart_image_annotation/upload*
+# 🔗 Deployment link
+https://smartimageannotation-vpddvocpdcdlpwahikxadi.streamlit.app/
 
 # 📌 Project Overview
 
